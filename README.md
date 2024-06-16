@@ -2,7 +2,7 @@
 
 ### Hi There, I'm Andrei. :blush:
 
-## React Developer | Youtube Content Creator
+# React Developer | Youtube Content Creator
 <font color="#00ffe1">you have to try hard to be like me `< code />` </font>
 
 ### Reach out to me
