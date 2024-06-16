@@ -1,6 +1,7 @@
 <img src="https://media.giphy.com/media/IgYDSGFFNpxN9gWAQ4/giphy.gif" align="right" width="200" height="150">
 
 ### Hi There, I'm Andrei. :blush:
+<br />
 
 # React Developer | Youtube Content Creator
 <font color="#00ffe1">you have to try hard to be like me `< code />` </font>
